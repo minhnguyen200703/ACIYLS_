@@ -81,6 +81,7 @@ const ProductPagev2 = () => {
           </div>
         </div>
       </div>
+      {/*  */}
     </div>
   );
 };
